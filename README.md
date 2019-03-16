@@ -2,8 +2,9 @@
 Simple Website Login (with Google ReCaptcha)
 
 Set Up Guide:
-1. Create database "brinets" di PHPMyAdmin
-2. Import brinets.sql
-3. Extract archive to C:\xampp\htdocs\
-4. Turn XAMPP On.
-5. Open Browser, go to "localhost/POC2/login.php"
+1. Extract archive to C:\xampp\htdocs\
+2. Turn Xampp On
+3. Create database "brinets" on PHPMyAdmin
+4. Import brinets.sql
+5. Rename the extraction folder to WebsiteLogin
+6. Open Browser, go to "localhost/WebsiteLogin/login.php"
